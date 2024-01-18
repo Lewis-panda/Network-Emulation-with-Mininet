@@ -8,7 +8,11 @@
 4. [Wireshark](#wireshark)
 
 ## Background
-This project aims to explore and implement methods for network simulation and performance testing using Mininet, iPerf, and Wireshark. Below is a brief introduction to these tools and some basic operations.
+This project aims to explore and implement methods for network simulation and performance testing using 
+- Mininet
+- iPerf
+- Wireshark
+Below is a brief introduction to these tools and some basic operations.
 
 ## Network Topology
 With Mininet, we can create a realistic virtual network running real kernel, switch, and application code on a single machine (VM, cloud, or native). This includes running a collection of endpoints, switches, routers, and links on a single Linux kernel.
