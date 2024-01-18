@@ -20,6 +20,8 @@ This project aims to explore and implement methods for network simulation and pe
 ![Topology](https://github.com/Lewis-panda/Network-Emulation-with-Mininet/assets/116704255/557b85af-f8d4-4f2f-af63-0d383ce628d3)
 
 ## Project Execution Steps
+env : [Env.org](https://nycu1-my.sharepoint.com/:u:/g/personal/khjhs102109_en09_m365_nycu_edu_tw/Ef3DNpw98mNGjvO_GQgW3A4B1Pv0hBU-ZLG-JABEwB5NFQ?e=gytu2v)
+
 To utilize the project functionalities, follow these steps:
 ### Step 1: Generate Flows
 Execute the following commands to generate flows and store the results of TCP and UDP in the '.../out/' directory:
