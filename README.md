@@ -1,5 +1,12 @@
 # Project README
 
+## Table of Contents
+1. [Background](#background)
+2. [Network Topology](#network-topology)
+   - [Mininet Command-Line Interface (CLI)](#mininet-command-line-interface-cli)
+3. [iPerf](#iperf)
+4. [Wireshark](#wireshark)
+
 ## Background
 This project aims to explore and implement methods for network simulation and performance testing using Mininet, iPerf, and Wireshark. Below is a brief introduction to these tools and some basic operations.
 
